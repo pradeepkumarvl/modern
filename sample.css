@@ -1,0 +1,29 @@
+body{
+	background-color: lightseagreen;
+}
+h1{
+	text-align: center;
+	color: #FF0000;
+}
+p{
+	text-align: left;
+	font-size: 300%;
+	color: #CCFFCC;
+}
+#h1{
+	text-align: center;
+	color: yellow;
+}
+div{
+	padding:  30px;
+	margin: 15px;
+	border: 15px solid green;
+}
+div{
+	padding:  30px;
+	margin: 15px;
+	border: 15px solid green;
+}
+ul{
+	font-size: 250%;
+}
